@@ -1,8 +1,7 @@
 
 
 # 💰 개인 자산 관리 프로그램 - All A Bank
-
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=C#&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>
 
 ## 🙋‍♂️ 우리 프로젝트를 소개합니다!
 &nbsp; 'All A Bank'는 개인 자산 관리에 도움을 주기 위한 프로그램입니다. 자신의 수입과 지출을 기록할 수 있습니다. 또한, 예산 기능을 통해 개인 자산 관리에 편의성을 제공합니다.
