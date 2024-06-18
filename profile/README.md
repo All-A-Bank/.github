@@ -22,6 +22,14 @@ $ git clone https://github.com/All-A-Bank/teamProject_00.git
 ```
 
 ## 📷 프로그램 사진
+![1](https://github.com/All-A-Bank/.github/assets/62338444/28e94d87-1ccd-4cd6-a695-fd9bdbceec6f)
+![2](https://github.com/All-A-Bank/.github/assets/62338444/cc09564b-a8f2-4574-9d4f-fcde1f988cc0)
+![3](https://github.com/All-A-Bank/.github/assets/62338444/9ad43eee-7496-466f-8e2a-ec33fa23a776)
+![4](https://github.com/All-A-Bank/.github/assets/62338444/fbb41486-072b-4349-aa34-cfb1b2a145fb)
+![5](https://github.com/All-A-Bank/.github/assets/62338444/2d29d5a0-40d3-4962-9221-b1ff8b9f329c)
+![5 2](https://github.com/All-A-Bank/.github/assets/62338444/c3f9cec7-f39b-43c0-8006-9151881b85fe)
+![6](https://github.com/All-A-Bank/.github/assets/62338444/25f46fc7-178e-47f2-a8ad-611a445eaca4)
+
 
 ## 🙏 라이선스
 &nbsp;This work is licensed under the MIT license.  
